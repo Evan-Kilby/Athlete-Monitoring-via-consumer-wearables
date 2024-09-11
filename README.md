@@ -1,2 +1,3 @@
 # Athlete-Monitoring-via-consumer-wearables
 Many institutions recognize the importance of athletes' behaviors outside the confines of training, leading to increased monitoring on and off the field. Institutions often turn to consumer-grade activity monitors that allow for continuous tracking. This repository provides the user with valuable experience for analyzing big data from such devices 
+These tracking purposes can be applied to the workforce, and such is the case for WHOOP employees who opt into the company's continuous monitoring program. Whatever your population of interest is, it's important that you know how to extract, transform, and load your data, as well as recognize the challenges associated with monitoring using consumer-grade devices
