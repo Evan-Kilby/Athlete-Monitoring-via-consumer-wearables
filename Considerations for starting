@@ -1,0 +1,8 @@
+For this project, we need to make a few assumptions about the methods used for extracting the metrics from the consumer-grade monitors you employ. 
+1. You utilize FitaBase for compiling and downloading your monitor data
+2. Your data is downloaded as a csv or XLSX format
+and 
+3. You already have permission from the monitor company to download, analyze, and report on your findings
+
+Let's start with the Excel document titled "Consumer-monitors practice.1". Utilize either VBA to slice the data into just the rows and columns that are of interest
+In other words, we want to remove all rows and columns that do not contain the headers and the data associated with those headers.
